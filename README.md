@@ -1,2 +1,3 @@
 # Stock-Trading-App-Py
-This App takes stock data from polygon.io now MASSIVE.COM using python.
+
+This Piece of Code helps extract Stock data from MASSIVE.COM API formerly known as Polygon.io API.
