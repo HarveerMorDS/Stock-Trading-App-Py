@@ -1,0 +1,70 @@
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9MTAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9MjAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9MzAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9NDAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9NTAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+Warning: No 'results' key in response. Response: {'status': 'ERROR', 'request_id': '4122d84f57d946178ef27acf4338deb0', 'error': "You've exceeded the maximum requests per minute, please wait or upgrade your subscription to continue. https://polygon.io/pricing"}
+wrote 5000 to /Users/hari/Stock-Trading-App-Py/tickers.csv
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9MTAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9MjAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9MzAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9NDAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9NTAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+Warning: No 'results' key in response. Response: {'status': 'ERROR', 'request_id': 'e8fa7562d48667908533204191e91815', 'error': "You've exceeded the maximum requests per minute, please wait or upgrade your subscription to continue. https://polygon.io/pricing"}
+wrote 5000 to /Users/hari/Stock-Trading-App-Py/tickers.csv
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9MTAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9MjAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9MzAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9NDAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9NTAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+Warning: No 'results' key in response. Response: {'status': 'ERROR', 'request_id': 'fd5015eff8a249a25a4c7b29f3f49849', 'error': "You've exceeded the maximum requests per minute, please wait or upgrade your subscription to continue. https://polygon.io/pricing"}
+wrote 5000 to /Users/hari/Stock-Trading-App-Py/tickers.csv
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9MTAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9MjAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9MzAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9NDAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9NTAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+Warning: No 'results' key in response. Response: {'status': 'ERROR', 'request_id': 'fa9e1dafdc82f55a0dfb8d7f9cb8a280', 'error': "You've exceeded the maximum requests per minute, please wait or upgrade your subscription to continue. https://polygon.io/pricing"}
+wrote 5000 to /Users/hari/Stock-Trading-App-Py/tickers.csv
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9MTAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9MjAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9MzAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9NDAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9NTAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+Warning: No 'results' key in response. Response: {'status': 'ERROR', 'request_id': 'b21ec7c8524d5908d29bc5c2912d94fc', 'error': "You've exceeded the maximum requests per minute, please wait or upgrade your subscription to continue. https://polygon.io/pricing"}
+wrote 5000 to /Users/hari/Stock-Trading-App-Py/tickers.csv
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9MTAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9MjAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9MzAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9NDAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9NTAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+Warning: No 'results' key in response. Response: {'status': 'ERROR', 'request_id': '678974b22613647aa9e20b4220d34480', 'error': "You've exceeded the maximum requests per minute, please wait or upgrade your subscription to continue. https://polygon.io/pricing"}
+wrote 5000 to /Users/hari/Stock-Trading-App-Py/tickers.csv
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9MTAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9MjAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9MzAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9NDAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9NTAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+Warning: No 'results' key in response. Response: {'status': 'ERROR', 'request_id': '6a1e29950482e90c3b2e5da5da5f7dd9', 'error': "You've exceeded the maximum requests per minute, please wait or upgrade your subscription to continue. https://polygon.io/pricing"}
+wrote 5000 to /Users/hari/Stock-Trading-App-Py/tickers.csv
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9MTAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9MjAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9MzAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9NDAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9NTAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+Warning: No 'results' key in response. Response: {'status': 'ERROR', 'request_id': '11ee9b9d1141e4732efdd16816b269e6', 'error': "You've exceeded the maximum requests per minute, please wait or upgrade your subscription to continue. https://polygon.io/pricing"}
+wrote 5000 to /Users/hari/Stock-Trading-App-Py/tickers.csv
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9MTAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9MjAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9MzAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9NDAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9NTAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+Warning: No 'results' key in response. Response: {'status': 'ERROR', 'request_id': '1a5ae29cf9f953001a98a7eccbcde434', 'error': "You've exceeded the maximum requests per minute, please wait or upgrade your subscription to continue. https://polygon.io/pricing"}
+wrote 5000 to /Users/hari/Stock-Trading-App-Py/tickers.csv
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9MTAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9MjAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9MzAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9NDAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+requesting next page https://api.massive.com/v3/reference/tickers?cursor=YWN0aXZlPXRydWUmYXA9NTAwMCZhcz0mbGltaXQ9MTAwMCZtYXJrZXQ9c3RvY2tzJm9yZGVyPWFzYyZzb3J0PXRpY2tlcg
+Warning: No 'results' key in response. Response: {'status': 'ERROR', 'request_id': '15c4de33df1d5f38bace052119c7f5fe', 'error': "You've exceeded the maximum requests per minute, please wait or upgrade your subscription to continue. https://polygon.io/pricing"}
+wrote 5000 to /Users/hari/Stock-Trading-App-Py/tickers.csv
